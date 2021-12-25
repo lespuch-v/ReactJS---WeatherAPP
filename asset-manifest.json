@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/ReactJS---WeatherAPP/static/css/main.367b656f.css",
-    "main.js": "/ReactJS---WeatherAPP/static/js/main.cef4b9d5.js",
+    "main.css": "/ReactJS---WeatherAPP/static/css/main.52550679.css",
+    "main.js": "/ReactJS---WeatherAPP/static/js/main.dcc68255.js",
     "static/js/943.12f8ee7d.chunk.js": "/ReactJS---WeatherAPP/static/js/943.12f8ee7d.chunk.js",
     "static/media/footer_lodyas.png": "/ReactJS---WeatherAPP/static/media/footer_lodyas.be8d2259c09a3d1fe461.png",
     "index.html": "/ReactJS---WeatherAPP/index.html",
-    "main.367b656f.css.map": "/ReactJS---WeatherAPP/static/css/main.367b656f.css.map",
-    "main.cef4b9d5.js.map": "/ReactJS---WeatherAPP/static/js/main.cef4b9d5.js.map",
+    "main.52550679.css.map": "/ReactJS---WeatherAPP/static/css/main.52550679.css.map",
+    "main.dcc68255.js.map": "/ReactJS---WeatherAPP/static/js/main.dcc68255.js.map",
     "943.12f8ee7d.chunk.js.map": "/ReactJS---WeatherAPP/static/js/943.12f8ee7d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.367b656f.css",
-    "static/js/main.cef4b9d5.js"
+    "static/css/main.52550679.css",
+    "static/js/main.dcc68255.js"
   ]
 }
